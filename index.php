@@ -37,7 +37,7 @@ class DirectoryListing {
 
 	// If you've enabled the includeUrl parameter above, enter the full url to the directory the index.php file
 	// is located in here, followed by a forward slash.
-	public $directoryUrl = 'http://yoursite.com/main-directory-name-here/';
+	public $directoryUrl ='http://html-games.herokuapp.com/';
 
 	// Set to true to list all sub-directories and allow them to be browsed
 	public $showSubDirectories = true;
